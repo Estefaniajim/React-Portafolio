@@ -65,10 +65,10 @@
 
 @keyframes move {
   25%{
-    transform: :translateY(-50px);
+    transform: translateY(-50px);
   }
   50%{
-    transform: :translateY(-100px);
+    transform: translateY(-100px);
   }
 }
 
