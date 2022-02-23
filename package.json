@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build && echo 'portafolio.estefania.software' > ./build/A",
+    "predeploy": "npm run build && echo 'https://portafolio.estefania.software/' > ./build/A",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
