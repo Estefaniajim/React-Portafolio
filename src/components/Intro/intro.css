@@ -51,14 +51,14 @@
   position: absolute;
   top: 0;
   right: 0;
-  background-color: #59b256;
+  background-color: #CCCCFF;
 }
 
 .i-title-item{
   height: 50px;
   font-size: 30px;
   font-weight: bold;
-  color: #59b256;
+  color: #CCCCFF;
   display: flex;
   align-items: center;
 }
